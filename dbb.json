@@ -1,0 +1,77 @@
+{
+  "productlist": [
+    {
+      "productName": "mangoo",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10000000000000,
+      "comment": "helloo",
+      "date": "2022-08-10T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "orange",
+      "category": "Fruits",
+      "freshness": "Second hand",
+      "price": 500,
+      "comment": "geuyeuebnbncbvbvhgjtyftyuf",
+      "date": "2022-08-11T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "gfgfg",
+      "category": "Electronic",
+      "freshness": "Second hand",
+      "price": 688,
+      "comment": "gfgfgf",
+      "date": "2022-08-19T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "ghgh",
+      "category": "Electronic",
+      "freshness": "Second hand",
+      "price": 565656,
+      "comment": "ytytyt",
+      "date": "2022-08-05T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "tytyty",
+      "category": "Electronic",
+      "freshness": "Refurbrished",
+      "price": 466,
+      "comment": "fgfgfg",
+      "date": "2022-08-03T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "hgghdsgdsd",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 566,
+      "comment": "rtrtrtt",
+      "date": "2022-08-04T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "rtrtrt",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 566,
+      "comment": "fgfgfg",
+      "date": "2022-08-25T18:30:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
